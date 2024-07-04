@@ -38,7 +38,7 @@ The dataset used in this analysis contains information about Diwali sales, inclu
 - Orders
 - Amount
 - Status
-- unnamed1
+- unnamed1 </br>
 [Dataset Link](https://github.com/MohammadFurquan/Diwali_Sales_Analysis/blob/main/Diwali%20Sales%20Data.csv)
 
 ## Methodology
