@@ -54,7 +54,7 @@ Key findings from the analysis include:
 - Impact of discounts on sales
 - Customer purchasing behavior
 
-Detailed analysis and visualizations can be found in the [notebook](https://github.com/MohammadFurquan/Diwali_Sales_Analysis/commit/a64fc226e734d2e4b3617065c0b01554cf39c4d9).
+Detailed analysis and visualizations can be found in the [notebook](https://github.com/MohammadFurquan/Diwali_Sales_Analysis/blob/main/Diwali_Sales_Analysis.ipynb)
 
 ## Conclusion :-
 <ul>
